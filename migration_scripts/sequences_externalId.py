@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Copyright 2019 Cognite AS
+
 import os
 from typing import Dict, List, Set, Tuple
 
